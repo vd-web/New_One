@@ -1,0 +1,1 @@
+print("Hello, I am the first file from VScode")
